@@ -42,4 +42,4 @@ Included modules
 * model_log_plot_utils.py
   * model_log_plot
   
-    It plots given train and test accuracy and loss data side-by-side
+    It plots given train and test accuracy and loss data side-by-side.
